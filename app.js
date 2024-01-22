@@ -9,4 +9,4 @@ const language = process.env.MY_LANGUAGE;
 const message = `I am ${name}, wilder in ${city}, and I love ${language}.`
 
 //afficher le message sur le console
-console.log(`I am ${name}, wilder in ${city}, and I love ${language}.`);
+console.log(message);
